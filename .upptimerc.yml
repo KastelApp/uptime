@@ -4,7 +4,7 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Canary API
-    url: https://canary-api.kastelapp.dev
+    url: https://canary-api.kastelapp.com
   - name: Canary Gateway
     url: https://dev-gateway.kastelapp.com
   - name: Media Server
