@@ -1,7 +1,7 @@
 url: https://media.kastelapp.com/ping
-status: up
-code: 200
-responseTime: 104
-lastUpdated: 2024-09-11T23:18:38.698Z
+status: down
+code: 500
+responseTime: 187
+lastUpdated: 2024-09-12T13:26:51.496Z
 startTime: 2024-09-04T23:11:52.639Z
 generator: Upptime <https://github.com/upptime/upptime>
