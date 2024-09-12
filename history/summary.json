@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 203,
+    "timeDay": 223,
     "timeWeek": 242,
     "timeMonth": 250,
     "timeYear": 250,
@@ -34,7 +34,7 @@
     "timeMonth": 244,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2024-09-12": 77,
+      "2024-09-12": 807,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
@@ -50,17 +50,19 @@
     "url": "https://media.kastelapp.com/ping",
     "icon": "https://icons.duckduckgo.com/ip3/media.kastelapp.com.ico",
     "slug": "media-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 104,
-    "timeWeek": 223,
-    "timeMonth": 225,
-    "timeYear": 225,
-    "dailyMinutesDown": {}
+    "time": 221,
+    "timeDay": 146,
+    "timeWeek": 218,
+    "timeMonth": 221,
+    "timeYear": 221,
+    "dailyMinutesDown": {
+      "2024-09-12": 0
+    }
   }
 ]
