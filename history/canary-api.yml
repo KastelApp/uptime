@@ -1,7 +1,7 @@
 url: https://canary-api.kastelapp.com
-status: down
-code: 530
-responseTime: 107
-lastUpdated: 2024-09-15T22:43:09.829Z
+status: up
+code: 200
+responseTime: 314
+lastUpdated: 2024-09-15T23:08:52.031Z
 startTime: 2024-09-04T23:11:48.651Z
 generator: Upptime <https://github.com/upptime/upptime>
