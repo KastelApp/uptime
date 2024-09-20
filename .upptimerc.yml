@@ -1,24 +1,21 @@
-# Change these first
-owner: KastelApp # Your GitHub organization or username, where this repository lives
-repo: uptime # The name of this repository
-
+owner: KastelApp
+repo: uptime
 sites:
   - name: Canary API
     url: https://canary-api.kastelapp.com
   - name: Canary Gateway
     url: https://dev-gateway.kastelapp.com
+    expectedStatusCodes:
+      - 200
+      - 404
+      - 400
   - name: Media Server
     url: https://media.kastelapp.com/ping
-
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
- #  cname: uptime.kastel.dev
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Kastel App
-  introTitle: "Thsi is Kastel's Uptime Page!"
-  # introMessage: test
+  introTitle: This is Kastel's Uptime Page!
   navbar:
     - title: Status
       href: /
@@ -26,6 +23,3 @@ status-website:
       href: https://github.com/$OWNER
     - title: App
       href: https://kastelapp.com
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
