@@ -36,7 +36,7 @@
     "timeWeek": 197,
     "timeMonth": 229,
     "timeYear": 229,
-    "dailyMinutesDown": {},
+    "dailyMinutesDown": {}
   {
     "name": "Media Server",
     "url": "https://media.kastelapp.com/ping",
